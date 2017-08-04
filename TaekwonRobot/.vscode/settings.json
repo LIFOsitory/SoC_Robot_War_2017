@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "amazon2_sdk.h": "c",
+        "robot_protocol.h": "c"
+    }
+}
